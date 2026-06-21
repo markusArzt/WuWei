@@ -1,5 +1,14 @@
 [
   {
+    "number": "03",
+    "date": "June 2026",
+    "title": "History of Philosophy - Antiquity",
+    "description": "Cosmology, Archê, Ontology",
+    "summaryPdf": "pdfs/ep03-history-of-philosophy-antiquity.pdf",
+    "scriptPdf": "pdfs/antike_kosmologie_zusammenfassung.pdf",
+    "spotifyUrl": "https://open.spotify.com/episode/7CmoCctqvbocdBVPYUyphO?si=-TBJfDLpT0qvIaBMUT1VAw"
+  },
+  {
     "number": "02",
     "date": "May 2026",
     "title": "Introduction to practical philosophy",
