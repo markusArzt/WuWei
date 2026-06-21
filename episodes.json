@@ -1,0 +1,20 @@
+[
+  {
+    "number": "02",
+    "date": "May 2026",
+    "title": "Introduction to practical philosophy",
+    "description": "Action Theory, Ethics, Politics",
+    "summaryPdf": "pdfs/ep02-introduction-to-practical-philosophy.pdf",
+    "scriptPdf": "pdfs/praktische_philosophie_zusammenfassung.pdf",
+    "spotifyUrl": "https://open.spotify.com/episode/1crWfMV95m3aIKzDXstj4n?si=0HWdZtFMRJ6n2uxVL3yf9A"
+  },
+  {
+    "number": "01",
+    "date": "May 2026",
+    "title": "Introduction to theoretical philosophy",
+    "description": "Metaphysics, Epistemology, Philosophy of Mind",
+    "summaryPdf": "pdfs/ep01-introduction-to-theoretical-philosophy.pdf",
+    "scriptPdf": "pdfs/theoretische_philosophie_zusammenfassung.pdf",
+    "spotifyUrl": "https://open.spotify.com/episode/5BqdsJP7lHtLlS8AE1lYMl?si=n_x6QqY_RoOxf5vniSGmDg"
+  }
+]
